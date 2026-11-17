@@ -8,7 +8,7 @@ process sensors actually help?
 > Synthetic data, from the same 800 simulated campaigns as P2
 > ([`fermsim/`](fermsim)). Each campaign has hourly sensors, one 32×32 hyphal
 > micrograph per day, and 16-protein proteomics every 3 days with about 30% of
-> samples missing. This was built in November 2026, with AI assistance, as
+> samples missing. This was built in November 2026 as
 > preparation for a PhD application.
 
 ## Architecture
